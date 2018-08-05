@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pmd-cpd>
    <duplication lines="7" tokens="25">
-      <file line="24" path="/Users/chujiayi/Desktop/Demo/Demo/ViewController.m"/>
-      <file line="30" path="/Users/chujiayi/Desktop/Demo/Demo/ViewController.m"/>
+      <file line="24"
+            path="/Users/chujiayi/workstation/Jerry/Xcode-tips/Demo/Demo/ViewController.m"/>
+      <file line="30"
+            path="/Users/chujiayi/workstation/Jerry/Xcode-tips/Demo/Demo/ViewController.m"/>
       <codefragment><![CDATA[- (int)hello0 {
     int a = 0, b = 0;
     int c = a + b;
@@ -12,9 +14,12 @@
 - (int)hello1 {]]></codefragment>
    </duplication>
    <duplication lines="7" tokens="23">
-      <file line="24" path="/Users/chujiayi/Desktop/Demo/Demo/ViewController.m"/>
-      <file line="30" path="/Users/chujiayi/Desktop/Demo/Demo/ViewController.m"/>
-      <file line="36" path="/Users/chujiayi/Desktop/Demo/Demo/ViewController.m"/>
+      <file line="24"
+            path="/Users/chujiayi/workstation/Jerry/Xcode-tips/Demo/Demo/ViewController.m"/>
+      <file line="30"
+            path="/Users/chujiayi/workstation/Jerry/Xcode-tips/Demo/Demo/ViewController.m"/>
+      <file line="36"
+            path="/Users/chujiayi/workstation/Jerry/Xcode-tips/Demo/Demo/ViewController.m"/>
       <codefragment><![CDATA[- (int)hello0 {
     int a = 0, b = 0;
     int c = a + b;
