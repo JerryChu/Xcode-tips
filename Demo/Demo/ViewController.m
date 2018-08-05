@@ -33,12 +33,6 @@
     return c;
 }
 
-- (int)hello2 {
-    int a = 0, b = 0;
-    int c = a + b;
-    return c;
-}
-
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
