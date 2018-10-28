@@ -20,3 +20,9 @@ play with Xcode
   thread jump -b 1 
   thread jump 111
   ```
+
+- scheme跳转
+  ```
+  xcrun simctl openurl booted myapp://
+  ```
+  
