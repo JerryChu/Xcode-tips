@@ -26,3 +26,7 @@ play with Xcode
   xcrun simctl openurl booted myapp://
   ```
   
+- 清理DeriveData
+  ```
+  alias makeXcodeGreatAgain='rm -rf ~/Library/Developer/Xcode/DerivedData/*'
+  ```
