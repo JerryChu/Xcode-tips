@@ -30,3 +30,8 @@ play with Xcode
   ```
   alias makeXcodeGreatAgain='rm -rf ~/Library/Developer/Xcode/DerivedData/*'
   ```
+
+- 命令行快速打开Xcode工程
+  ```
+  xed .
+  ```
