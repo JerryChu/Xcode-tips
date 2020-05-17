@@ -42,6 +42,16 @@ play with Xcode
   thread jump 111
   ```
 
+## 快捷键
+
+- 在左侧的Project Navigator中定位当前文件（Reveal in Project Navigator）
+
+`Command+Shift+J`
+
+- 切换.m/.h文件
+
+`Control+Command+⬆️⬇️`
+
 ## 单元测试
 
 - 命令行执行单元测试
