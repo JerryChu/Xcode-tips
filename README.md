@@ -52,6 +52,10 @@ play with Xcode
 
 `Control+Command+⬆️⬇️`
 
+- 编辑所有匹配项
+
+`Control+Command+E`
+
 ## 单元测试
 
 - 命令行执行单元测试
