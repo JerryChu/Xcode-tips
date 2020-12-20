@@ -22,6 +22,7 @@ play with Xcode
   ```shell
   xed .
   ```
+
 ## 调试
 
 - 低版本Xcode调试高系统版本设备
@@ -71,6 +72,10 @@ play with Xcode
   ```
   xcrun xccov view --report --json test.xcresult > result.json
   ```
+  
+- 单元测试执行数据解析
+
+  参考 https://github.com/JerryChu/UnitTestParser
 
 - Xcode展示代码是否被单元测试覆盖  
   红色表示该行未被单元测试覆盖，数字表示执行次数
